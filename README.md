@@ -1,2 +1,2 @@
-# shravanchoudhary
-This is my first Git repository
+# shravan-choudhary
+This is my First Git repository
